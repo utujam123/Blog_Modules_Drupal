@@ -1,4 +1,4 @@
-List of Modules
+List of Blogs
 
 1. Media 
 2. PathAuto
